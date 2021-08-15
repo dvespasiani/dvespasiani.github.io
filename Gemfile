@@ -12,7 +12,7 @@ gem "jekyll", "~> 4.2.0"
 gem "webrick", "~> 1.7"
 
 # Theme
-gem "jekyll-theme-devlopr"
+gem "jekyll-theme-cayman"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
